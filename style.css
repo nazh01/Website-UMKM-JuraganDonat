@@ -137,6 +137,9 @@
 .sosmed {
     background-color: var(--third-color);
 }
+.media {
+    background: url(images/background-ceres.jpg);
+}
 
 .produk {
     background: url(images/background-ceres.jpg);
